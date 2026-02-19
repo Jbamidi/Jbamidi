@@ -49,15 +49,17 @@
 ![Git](https://img.shields.io/badge/Git-B45309?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Snapshot
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Jbamidi&show_icons=true&rank_icon=github&hide_border=true&theme=github_dark" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jbamidi&layout=compact&hide_border=true&theme=github_dark" alt="Top Languages"/>
-</p>
+## What I'm Building Right Now
+- Advancing my RISC-V CPU work from clean RV32I execution to stronger pipelining and hazard handling.
+- Expanding FPGA computer-vision blocks for real-time, hardware-accelerated image processing.
+- Designing EV electronics subsystems (measurement, power, and control) with robust PCB + bring-up workflows.
+- Sharpening embedded firmware integration for sensor interfaces and system-level validation.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jbamidi&theme=github-compact&hide_border=true" alt="Activity Graph"/>
-</p>
+## Engineering Interests
+- CPU/SoC design and verification
+- FPGA acceleration for signal/image processing
+- Embedded systems for automotive and robotics
+- Hardware-software co-design from architecture to deployment
 
 ---
 This repository powers my GitHub profile page because its name matches my username (`Jbamidi`).
