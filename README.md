@@ -60,6 +60,3 @@
 - FPGA acceleration for signal/image processing
 - Embedded systems for automotive and robotics
 - Hardware-software co-design from architecture to deployment
-
----
-This repository powers my GitHub profile page because its name matches my username (`Jbamidi`).
